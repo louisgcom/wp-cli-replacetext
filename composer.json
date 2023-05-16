@@ -1,0 +1,26 @@
+{
+  "name"        : "gcommeuneidee/wp-cli-replacetext",
+  "description" : "Simple Library Which Provides Option To Replace Text",
+  "type"        : "library",
+  "support"     : {
+    "email"  : "louisvedel@gcommeuneidee.com",
+    "issues" : "https://github.com/gcommeuneidee/wp-cli-replacetext/issues"
+  },
+  "homepage"    : "https://github.com/gcommeuneidee/wp-cli-replacetext/",
+  "license"     : "GPL-3.0-or-later",
+  "keywords"    : [ ],
+  "bin"         : [
+    "bin/replacetext.bat"
+  ],
+  "require"     : {
+    "wp-cli/i18n-command" : ">=1"
+  },
+  "authors"     : [
+    {
+      "name"     : "Louis Vedel",
+      "email"    : "louisvedel@gcommeuneidee.com",
+      "homepage" : "https://www.gcommeuneidee.com",
+      "role"     : "Agency"
+    }
+  ]
+}
